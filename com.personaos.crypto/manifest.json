@@ -1,0 +1,20 @@
+{
+    "id": "com.personaos.crypto",
+    "name": "Market Dash",
+    "version": "1.0.0",
+    "description": "Track crypto and stock market movers in real-time.",
+    "author": "PersonaOS",
+    "main": "main.lua",
+    "permissions": [
+        "network"
+    ],
+    "widget": {
+        "id": "crypto-widget",
+        "title": "Markets",
+        "icon": "mdi-chart-line",
+        "description": "Crypto & Stocks",
+        "pluginId": "com.personaos.crypto",
+        "route": "/plugins/crypto-tracker"
+    },
+    "isBoardable": true
+}

@@ -1,0 +1,19 @@
+{
+    "id": "com.personaos.timer",
+    "name": "Timer",
+    "version": "1.0.0",
+    "description": "Focus & Track time with a beautiful stopwatch and timer.",
+    "author": "PersonaOS",
+    "main": "main.lua",
+    "permissions": [
+        "notifications"
+    ],
+    "widget": {
+        "id": "timer-widget",
+        "title": "Timer",
+        "icon": "mdi-timer-outline",
+        "description": "Focus & Track",
+        "pluginId": "com.personaos.timer",
+        "route": "/plugins/timer-app"
+    }
+}
