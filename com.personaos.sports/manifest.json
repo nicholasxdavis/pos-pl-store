@@ -8,13 +8,17 @@
     "permissions": [
         "network"
     ],
+    "ui": {
+        "main": "App.vue",
+        "widget": "Widget.vue"
+    },
     "widget": {
         "id": "sports-widget",
         "title": "Sports",
         "icon": "mdi-trophy-outline",
         "description": "Live Scores",
         "pluginId": "com.personaos.sports",
-        "route": "/plugins/sports-center"
+        "route": "/plugins/com.personaos.sports"
     },
     "isBoardable": true
 }

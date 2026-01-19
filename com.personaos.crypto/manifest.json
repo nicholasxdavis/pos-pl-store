@@ -8,13 +8,17 @@
     "permissions": [
         "network"
     ],
+    "ui": {
+        "main": "App.vue",
+        "widget": "Widget.vue"
+    },
     "widget": {
         "id": "crypto-widget",
         "title": "Markets",
         "icon": "mdi-chart-line",
         "description": "Crypto & Stocks",
         "pluginId": "com.personaos.crypto",
-        "route": "/plugins/crypto-tracker"
+        "route": "/plugins/com.personaos.crypto"
     },
     "isBoardable": true
 }

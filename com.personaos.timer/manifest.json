@@ -8,12 +8,15 @@
     "permissions": [
         "notifications"
     ],
+    "ui": {
+        "main": "App.vue"
+    },
     "widget": {
         "id": "timer-widget",
         "title": "Timer",
         "icon": "mdi-timer-outline",
         "description": "Focus & Track",
         "pluginId": "com.personaos.timer",
-        "route": "/plugins/timer-app"
+        "route": "/plugins/com.personaos.timer"
     }
 }
