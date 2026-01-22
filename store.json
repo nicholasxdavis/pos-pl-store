@@ -21,6 +21,13 @@
       "description": "Focus & Track time with a beautiful stopwatch and timer.",
       "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.timer.zip"
     },
+    "notepad": {
+      "name": "Notes",
+      "id": "com.personaos.notepad",
+      "price": "$0.00",
+      "description": "Capture thoughts and ideas in a clean, iOS-style notepad.",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.notepad.zip"
+    },
     "test-paid": {
       "name": "Test Paid Plugin",
       "id": "com.personaos.testpaid",
