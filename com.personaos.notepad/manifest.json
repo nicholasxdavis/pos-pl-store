@@ -1,0 +1,24 @@
+{
+    "id": "com.personaos.notepad",
+    "name": "Notes",
+    "version": "1.0.0",
+    "description": "Capture thoughts and ideas in a clean, iOS-style notepad.",
+    "author": "PersonaOS",
+    "main": "index.js",
+    "permissions": [
+        "storage"
+    ],
+    "ui": {
+        "main": "App.vue",
+        "widget": "Widget.vue"
+    },
+    "widget": {
+        "id": "notepad-widget",
+        "title": "Notes",
+        "icon": "mdi-notebook-outline",
+        "description": "Recent Thoughts",
+        "pluginId": "com.personaos.notepad",
+        "route": "/plugins/com.personaos.notepad"
+    },
+    "isBoardable": true
+}
