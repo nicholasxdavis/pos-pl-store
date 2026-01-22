@@ -35,6 +35,13 @@
       "description": "Plan your retirement with a Roth IRA calculator and learning resources.",
       "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.rothira.zip"
     },
+    "sp500": {
+      "name": "S&P 500 Tracker",
+      "id": "com.personaos.sp500",
+      "price": "$0.00",
+      "description": "Track the S&P 500 with live charts, news, and growth projections.",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.sp500.zip"
+    },
     "test-paid": {
       "name": "Test Paid Plugin",
       "id": "com.personaos.testpaid",
