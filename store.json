@@ -28,6 +28,13 @@
       "description": "Capture thoughts and ideas in a clean, iOS-style notepad.",
       "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.notepad.zip"
     },
+    "rothira": {
+      "name": "Roth Planner",
+      "id": "com.personaos.rothira",
+      "price": "$0.00",
+      "description": "Plan your retirement with a Roth IRA calculator and learning resources.",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.rothira.zip"
+    },
     "test-paid": {
       "name": "Test Paid Plugin",
       "id": "com.personaos.testpaid",
