@@ -1,22 +1,32 @@
 {
   "plugins": {
     "crypto": {
-      "name": "Crypto Plugin",
+      "name": "Market Dash",
       "id": "com.personaos.crypto",
       "price": "$0.00",
+      "description": "Track crypto and stock market movers in real-time.",
       "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.crypto.zip"
     },
     "sports": {
-      "name": "Sports Plugin",
+      "name": "Sports Center",
       "id": "com.personaos.sports",
       "price": "$0.00",
+      "description": "Live scores, news, and stats for major sports leagues.",
       "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.sports.zip"
     },
     "timer": {
-      "name": "Timer Plugin",
+      "name": "Timer",
       "id": "com.personaos.timer",
       "price": "$0.00",
+      "description": "Focus & Track time with a beautiful stopwatch and timer.",
       "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.timer.zip"
+    },
+    "test-paid": {
+      "name": "Test Paid Plugin",
+      "id": "com.personaos.testpaid",
+      "price": "$4.99",
+      "description": "This is a test paid plugin to demonstrate the purchase flow. All paid plugins will be priced at $4.99.",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.testpaid.zip"
     }
   }
 }
