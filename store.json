@@ -1,0 +1,19 @@
+{
+  "plugins": {
+    "crypto": {
+      "name": "Crypto Plugin",
+      "id": "com.personaos.crypto",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.crypto.zip"
+    },
+    "sports": {
+      "name": "Sports Plugin",
+      "id": "com.personaos.sports",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.sports.zip"
+    },
+    "timer": {
+      "name": "Timer Plugin",
+      "id": "com.personaos.timer",
+      "download": "https://github.com/nicholasxdavis/pos-pl-store/releases/download/Plugins/com.personaos.timer.zip"
+    }
+  }
+}
