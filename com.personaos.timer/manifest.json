@@ -1,0 +1,23 @@
+{
+    "id": "com.personaos.timer",
+    "name": "Timer",
+    "version": "1.0.0",
+    "description": "Focus & Track time with a beautiful stopwatch and timer.",
+    "author": "PersonaOS",
+    "main": "index.js",
+    "permissions": [
+        "notifications"
+    ],
+    "ui": {
+        "main": "App.vue",
+        "widget": "Widget.vue"
+    },
+    "widget": {
+        "id": "timer-widget",
+        "title": "Timer",
+        "icon": "mdi-timer-outline",
+        "description": "Focus & Track",
+        "pluginId": "com.personaos.timer",
+        "route": "/plugins/com.personaos.timer"
+    }
+}

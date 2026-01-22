@@ -1,0 +1,24 @@
+{
+    "id": "com.personaos.sports",
+    "name": "Sports Center",
+    "version": "1.0.0",
+    "description": "Live scores, news, and stats for major sports leagues.",
+    "author": "PersonaOS",
+    "main": "index.js",
+    "permissions": [
+        "network"
+    ],
+    "ui": {
+        "main": "App.vue",
+        "widget": "Widget.vue"
+    },
+    "widget": {
+        "id": "sports-widget",
+        "title": "Sports",
+        "icon": "mdi-trophy-outline",
+        "description": "Live Scores",
+        "pluginId": "com.personaos.sports",
+        "route": "/plugins/com.personaos.sports"
+    },
+    "isBoardable": true
+}
